@@ -16,7 +16,6 @@ OPENAI_API_KEY=your_openai_api_key  # Required for AI features
 
 ### Database Setup
 Create a new PostgreSQL database:
-sql
 CREATE DATABASE ecfr;
 Run the database migrations or import initial data using the scripts in the ingestion-script directory.
 
