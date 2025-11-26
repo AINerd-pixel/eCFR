@@ -22,9 +22,9 @@ Run the database migrations or import initial data using the scripts in the inge
 
 ## Running the API
 bash
-# Start the FastAPI server
+Start the FastAPI server
 ./start_api.sh
-# or
+or
 uvicorn agency_api:app --reload --host 0.0.0.0 --port 8000
 The API will be available at http://localhost:8000 with interactive documentation at http://localhost:8000/docs.
 
