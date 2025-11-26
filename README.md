@@ -1,3 +1,6 @@
+### Project info with all screenshots
+- eCFR Project documentation.pdf
+
 ### Prerequisites
 
 - Python 3.8+
