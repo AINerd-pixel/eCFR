@@ -1,0 +1,27 @@
+{
+  "name": "ecfr-agencies-ui",
+  "version": "1.0.0",
+  "description": "React UI for eCFR Agencies Directory",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 3000"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "@babel/standalone": "^7.23.0"
+  },
+  "keywords": [
+    "react",
+    "ecfr",
+    "agencies",
+    "government",
+    "directory"
+  ],
+  "author": "eCFR Team",
+  "license": "MIT"
+}
